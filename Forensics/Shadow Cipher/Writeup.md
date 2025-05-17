@@ -21,7 +21,7 @@ stegseek Richato.jpg /usr/share/wordlists/rockyou.txt
 * ✅ **File 1**: Contained suspicious hex data — likely a **decoy**
 * ✅ **File 2**: Contained a hex string that converted to an ASCII password
 
-![Extracted Files](alts/ExtractedStegSeek)
+![Extracted Files](alts/ExtractedStegSeek.png)
 
 
 ## 🔓 Step 2: Unlocking the Second Stego File (`stegno`)
