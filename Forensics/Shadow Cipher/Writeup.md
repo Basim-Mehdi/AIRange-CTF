@@ -109,8 +109,10 @@ python3 ShadowCipher6.py
 
 ## 🏁 Final Result
 
-The Python script successfully decoded the flag hidden via **whitespace steganography**.
+The Python script successfully decoded the flag hidden via **whitespace steganography**. 
 
+``` flag{Wh1teSpace_Enc0ding} 
+```
 ---
 
 ## 🧰 Tools Used
