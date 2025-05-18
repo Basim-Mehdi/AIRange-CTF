@@ -1,8 +1,7 @@
 # 🧩 Next – Pwn Challenge Writeup
 
-## 📌 Challenge Name
-**Next**
-    ![Challenge Overview](assets/Overview.png)
+## 📌 Challenge Name **Next**
+![Challenge Overview](assets/Overview.png)
 ---
 
 ## 📷 Section 1: Binary Security Check (Checksec)
