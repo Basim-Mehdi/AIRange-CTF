@@ -46,6 +46,8 @@ p.sendlineafter("destination?", payload)
 p.interactive()
 ````
 
+![Flag ](assets/Flag.png)
+
 ---
 
 ## 🏁 Flag
