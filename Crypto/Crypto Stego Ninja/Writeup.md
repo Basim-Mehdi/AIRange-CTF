@@ -14,7 +14,7 @@ You are provided with two files:
 ## 🧪 Step 1: Reconnaissance & Clues
 
 - Running `strings` on `secret.jpg` showed an embedded `RIFF` header:
-  ```
+````
   strings secret.jpg | grep "RIFF"
 ````
 
