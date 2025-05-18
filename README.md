@@ -10,6 +10,10 @@ This repository contains writeups for various **Capture The Flag (CTF)** challen
 - [Pa55w0r8 Writeup](Forensics/Pa55w0r8/Writeup.md)
 
 - [Phantom File Writeup](Forensics/Phantom%20File/Writeup.md)
+
+### Pwn
+- [Next Writeup](Pwn/Next/Writeup.md)
+
 <!-- ### Cryptography
 - [Crypto Challenge 1 Writeup](Cryptography/Crypto%20Challenge%201/Writeup.md) -->
 
