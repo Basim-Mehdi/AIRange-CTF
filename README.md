@@ -21,11 +21,13 @@ This repository contains writeups for various **Capture The Flag (CTF)** challen
 
 ### Stegno
 - [Linear Trap Writeup](Stegno/Linear%20Trap/Writeup.md)
+
+### Web 
+- [Hidden Access Writeup](Web/Hidden%20Access/Writeup.md)
+
 <!-- ### Reversing
 - [Reversing Challenge 1 Writeup](Reversing/Reversing%20Challenge%201/Writeup.md)
 
-### Web Exploitation
-- [Web Exploitation Challenge 1 Writeup](Web%20Exploitation/Web%20Exploitation%20Challenge%201/Writeup.md)
 
 
 
