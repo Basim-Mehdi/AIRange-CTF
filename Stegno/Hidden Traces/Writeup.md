@@ -1,4 +1,4 @@
-## 🕵️‍♀️ CTF Challenge Writeup: **Hidden Traces (250 pts)**
+## 🕵️‍♀️ CTF Challenge Writeup: **Hidden Traces**
 
 ![Overview](assets/Overview.png)
 

@@ -22,6 +22,8 @@ This repository contains writeups for various **Capture The Flag (CTF)** challen
 ### Stegno
 - [Linear Trap Writeup](Stegno/Linear%20Trap/Writeup.md)
 
+- [Hidden Traces Writeup](Stegno/Hidden%20Traces/Writeup.md)
+
 ### Web 
 - [Hidden Access Writeup](Web/Hidden%20Access/Writeup.md)
 
