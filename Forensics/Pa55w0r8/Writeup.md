@@ -52,7 +52,7 @@ flag{11223344}
 ```
 ---
 
-### Author
+## 👤 Author
 
-**Basim Mehdi**  
-*Team: 0xFAILURES*
+### **Basim Mehdi**  
+#### *Team: 0xFAILURES*
