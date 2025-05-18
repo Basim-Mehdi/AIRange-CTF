@@ -13,6 +13,7 @@ The goal was to uncover a hidden login endpoint, bypass a basic frontend form, a
 #### 1. **Initial Recon and JavaScript Inspection**
 
 ![Overview](assets/Website.png)
+
 ![Overview](assets/SourceCode.png)
 
 While examining the site assets, we discovered an interesting line in `script.js`:
