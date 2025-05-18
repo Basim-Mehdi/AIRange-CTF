@@ -1,4 +1,3 @@
-Here's a well-structured `README.md` for your **"Threaded Vision"** challenge writeup, ready for use in a CTF repository, blog, or portfolio:
 # Linear Trap – Challenge Writeup
 
 ## 📁 Challenge File
