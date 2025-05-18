@@ -1,6 +1,6 @@
 # 🧩 Next – Pwn Challenge Writeup
 
-## 📌 Challenge Name **Next**
+## 📌 Challenge Name : **Next**
 ![Challenge Overview](assets/Overview.png)
 ---
 
