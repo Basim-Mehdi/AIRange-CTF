@@ -71,13 +71,6 @@ openssl pkeyutl -decrypt -inkey secret.pem -in flag.enc -out flag.dec
 ```
 flag{cryp70_5t3g_n1nj4}
 ```
-
-## 🏁 Final Flag
-
-```
-flag{cryp70_5t3g_n1nj4}
-```
-
 ---
 
 ## 👤 Author

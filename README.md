@@ -16,8 +16,8 @@ This repository contains writeups for various **Capture The Flag (CTF)** challen
 
 - [Chall Writeup](Pwn/Chall/Writeup.md)
 
-<!-- ### Cryptography
-- [Crypto Challenge 1 Writeup](Cryptography/Crypto%20Challenge%201/Writeup.md) -->
+### Cryptography
+ - [Crypto Stegno Ninja Writeup](Crypto/Crypto%20Stego%20Ninja/Writeup.md) 
 
 <!-- ### Reversing
 - [Reversing Challenge 1 Writeup](Reversing/Reversing%20Challenge%201/Writeup.md)
