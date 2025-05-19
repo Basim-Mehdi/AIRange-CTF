@@ -27,7 +27,7 @@ This repository contains writeups for various **Capture The Flag (CTF)** challen
 ### Web 
 - [Hidden Access Writeup](Web/Hidden%20Access/Writeup.md)
 
-Reversing
+### Reversing
 - [XoRrupt Writeup](Rev/XoRrupt/Writeup.md)
 
 
