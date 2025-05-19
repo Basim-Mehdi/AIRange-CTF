@@ -109,7 +109,7 @@ This was repeated for all three `fault_check` functions.
 
 ---
 
-## 🏁 7. Final Execution — Revealing the Flag
+## 🏁 7. Flag
 
 With all protections disabled, we continued the program’s execution and it printed the flag:
 
